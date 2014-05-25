@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry kind="lib" path="C:/Users/Michael/Documents/LWJGL/lwjgl-2.9.1/jar/lwjgl.jar" sourcepath="C:/Users/Michael/Documents/LWJGL/lwjgl-source-2.9.1.zip">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:file:/C:/Users/Michael/Downloads/lwjgl-docs-2.9.1.zip!/javadoc"/>
