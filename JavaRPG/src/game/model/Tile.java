@@ -51,7 +51,7 @@ public class Tile {
 	/*
 	 * @return the obstruction status of the tile
 	 */
-	public boolean getObstructionStatus() {
+	public boolean getObstructed() {
 		return obstructed;
 	}
 	
