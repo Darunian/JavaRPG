@@ -56,7 +56,7 @@ public class Tile {
 	}
 	
 	/*
-	 * @return the Occupation status of the tile
+	 * @return the occupation status of the tile
 	 */
 	public Character getOccupant() {
 		return occupant;
