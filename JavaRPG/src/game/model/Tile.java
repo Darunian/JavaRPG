@@ -28,13 +28,13 @@ public class Tile {
 	 * takes values for tile height, obstruction status, and occupation status
 	 * 
 	 */
-	public Tile(int height, boolean obstructed, Character occupant) {
+	public Tile(int height, Character occupant) {
 		this.height = height;
 			if(height == -1){
 				this.obstructed = true;
 			}
 			else{
-				this.obstructed = obstructed;
+				this.obstructed = false;
 			}
 		this.occupant = occupant;
 	}
