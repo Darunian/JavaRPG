@@ -25,7 +25,7 @@ public class Tile {
 	
 	/*
 	 * Constructor for Tile 
-	 * takes values for tile height, obstruction status, and occupation status
+	 * takes values for tile height and tile occupation status
 	 * 
 	 */
 	public Tile(int height, Character occupant) {
